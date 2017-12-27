@@ -80,3 +80,11 @@ deploy:
   type: s3
   region: eu-west-1
   bucket: hexo-demo-pagespeed
+
+
+img_optimization:
+  enabled: true
+  default_params: -resize 900x800^> -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG -colorspace RGB 
+  exclude:
+    - css/
+    - fancybox/
