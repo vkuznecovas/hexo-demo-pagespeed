@@ -1,6 +1,6 @@
 ---
 title: Hello World 3
-cover_image: images/pexels-photo-670237.jpeg
+cover_image: /pexels-photo-135020.jpeg
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
