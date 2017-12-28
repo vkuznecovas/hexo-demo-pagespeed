@@ -80,7 +80,12 @@ deploy:
   type: s3
   region: eu-west-1
   bucket: hexo-demo-pagespeed
-
+  headers:
+    all:
+      ContentEncoding: gzip
+    type_specific:
+      - types:
+        values:
 
 img_optimization:
   enabled: true
