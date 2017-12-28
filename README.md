@@ -10,3 +10,4 @@ The purpose of this repo is to show the steps you can take to optimize your hexo
 1. [Compression](https://github.com/vkuznecovas/hexo-demo-pagespeed/releases/tag/Compression)
 1. [Thumbnails](https://github.com/vkuznecovas/hexo-demo-pagespeed/releases/tag/Thumbnails)
 1. [Render blocking css](https://github.com/vkuznecovas/hexo-demo-pagespeed/releases/tag/RenderBlock)
+1. [Caching](https://github.com/vkuznecovas/hexo-demo-pagespeed/releases/tag/Caching)

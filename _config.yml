@@ -85,7 +85,19 @@ deploy:
       ContentEncoding: gzip
     type_specific:
       - types:
+          - jpg
+          - png
+          - jpeg
+          - gif
+          - css
+          - js
+          - otf
+          - eot
+          - svg
+          - ttf
+          - woff
         values:
+          CacheControl: max-age=604800
 
 img_optimization:
   enabled: true
