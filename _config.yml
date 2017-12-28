@@ -93,3 +93,6 @@ img_optimization:
   exclude:
     - css/
     - fancybox/
+  thumbnails:
+    small_thumb: -resize 480x400^> -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG -colorspace RGB 
+
